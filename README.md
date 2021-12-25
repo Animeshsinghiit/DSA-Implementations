@@ -10,3 +10,7 @@ Current Material:
   - BFS(Breadth First Search)
   - DFS(Depth First Search)
   - Topological Sorting
+  - Longest Path in Directed Acyclic Graphs
+  - Dijkstra's Agorithm ( Single source shortest path)
+  - Bellman Ford Algorithm
+  - Floyd-Warshall Algorithm
