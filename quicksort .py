@@ -1,3 +1,7 @@
+## Avg case : T(n)= O(nlogn)
+## Worst cast(already sorted array) : T(n)=O(n^2)
+## if pivot is taken as median then , T(n)=O(nlogn)
+
 def Quicksort(alist,l,r):
     if (r-l)<=1:
         return
