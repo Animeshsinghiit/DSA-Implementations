@@ -4,6 +4,8 @@ This repository contains implementation of all the Algorithms that I found in my
 Current Material:
  >**Extras** :
   - LinkedList
+  - Stack
+  - Queue
  > **Sorting Algorithms** : 
   - Merge Sort
   - Insertion Sort
